@@ -115,7 +115,7 @@ export const headerData = {
       href: '#',
     },
   ],
-  actions: [{ text: 'KIKO Stake', href: 'https://github.com/arthelokyo/astrowind', target: '_blank' }],
+  actions: [{ text: 'KIKO Stake', href: 'https://linktr.ee/KIKOStake', target: '_blank' }],
 };
 
 export const footerData = {
