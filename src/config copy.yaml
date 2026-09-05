@@ -1,6 +1,6 @@
 site:
-  name: KIKO.Exchange
-  site: 'https://kiko.exchange'
+  name: AstroWind
+  site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: KIKO.Exchange
-    template: 'KIKO.Exchange'
-  description: " KIKO.Exchange Unlimited Swaps Fast. Free of Custody. Non-custodial. Best Rates. Safe & Trusted. ChangeNow Exchange. Low Fees and High Liquidity. User-friendly Interface. Exchange Now. Non-Custodial Service. Multiple Payment Options. Steps: Get Your Coins, Make Deposit."
+    default: AstroWind
+    template: '%s — AstroWind'
+  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: KIKO.Exchange
+    site_name: AstroWind
     images:
       - url: '~/assets/images/default.png'
         width: 1200
