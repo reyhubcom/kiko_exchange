@@ -69,7 +69,7 @@ const metadata = {
       {
         text: 'primary',
         text: 'Bridge',
-        href: '/bridge.1',
+        href: '/bridge',
         target: '',
         icon: 'tabler:external-link',
       },
@@ -77,11 +77,11 @@ const metadata = {
   >
     <Fragment slot="title">
       <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script> <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#0693e3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="30" ></div>
-<iframe
-  src="https://widget.rhino.fi/?apiKey=PUBLIC-df48d915-3a14-4185-a2ef-b713fb5c4425&theme=%7B%22tokenInputStroke%22%3Atrue%7D"
-  style="width: 100%; height: 581px; border: none;"
-  scrolling="no"
-/>
+<div id="debridgeWidget"></div>
+<script src="https://app.debridge.com/assets/scripts/widget.js"></script>
+<script>
+deBridge.widget({"v":"1","element":"debridgeWidget","title":"KIKO Bridge","description":"","width":"600","height":"800","r":32427,"supportedChains":"{\"inputChains\":{\"1\":\"all\",\"10\":\"all\",\"25\":\"all\",\"56\":\"all\",\"137\":\"all\",\"143\":\"all\",\"999\":\"all\",\"1514\":\"all\",\"1776\":\"all\",\"4326\":\"all\",\"8453\":\"all\",\"42161\":\"all\",\"43114\":\"all\",\"7565164\":\"all\",\"728126428\":\"all\"},\"outputChains\":{\"1\":\"all\",\"10\":\"all\",\"25\":\"all\",\"56\":\"all\",\"137\":\"all\",\"143\":\"all\",\"999\":\"all\",\"1514\":\"all\",\"1776\":\"all\",\"4326\":\"all\",\"8453\":\"all\",\"42161\":\"all\",\"43114\":\"all\",\"7565164\":\"all\",\"728126428\":\"all\"}}","inputChain":56,"outputChain":1,"inputCurrency":"","outputCurrency":"","address":"","showSwapTransfer":true,"amount":"","outputAmount":"","isAmountFromNotModifiable":false,"isAmountToNotModifiable":false,"lang":"en","mode":"deswap","isEnableCalldata":false,"styles":"eyJhcHBCYWNrZ3JvdW5kIjoiIzA0MDQyMiIsImJvcmRlclJhZGl1cyI6MTZ9","theme":"dark","isHideLogo":false,"logo":"","disabledWallets":[],"disabledElements":[]}) 
+</script>
     </Fragment>
 
     <Fragment slot="subtitle">
