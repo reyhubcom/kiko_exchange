@@ -7,20 +7,17 @@ export const headerData = {
       links: [
         {
           text: 'Swap',
-          href: getPermalink('/homes/saas'),
+          href: getPermalink('/swap'),
         },
         {
           text: 'Trade',
-          href: getPermalink('/homes/startup'),
+          href: getPermalink('/#'),
         },
         {
           text: 'Buy Crypto',
-          href: getPermalink('/homes/mobile-app'),
+          href: getPermalink('/swap'),
         },
-        {
-          text: 'Personal',
-          href: getPermalink('/homes/personal'),
-        },
+        
       ],
     },
     {
