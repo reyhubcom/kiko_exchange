@@ -9,15 +9,15 @@
     class="bg-white/20 dark:bg-slate-700 text-slate-100 dark:text-slate-300 font-semibold px-1 py-0.5 text-xs mr-0.5 rtl:mr-0 rtl:ml-0.5 inline-block"
     >NEW</span
   >
-  <a href="https://app.houdiniswap.com/pointless/signup?referral_code=aaq9j1" class="text-slate-300 hover:underline dark:text-slate-400 font-medium"
-    >Swap Crypto Privately, Instanly, Any Chain! »</a
+  <a href="https://astro.build/blog/astro-7/" class="text-slate-300 hover:underline dark:text-slate-400 font-medium"
+    >Astro v7 is now available! »</a
   >
   <a
     target="_blank"
     rel="noopener"
     class="ltr:ml-auto rtl:mr-auto w-[5.6rem] h-[1.25rem] ml-auto bg-contain inline-block bg-[url(https://img.shields.io/github/stars/arthelokyo/astrowind.svg?style=social&label=Stars&maxAge=86400)]"
-    title="Swap Crypto Privately."
-    href="https://app.houdiniswap.com/pointless/signup?referral_code=aaq9j1"
+    title="If you like AstroWind, give us a star."
+    href="https://github.com/arthelokyo/astrowind"
   >
   </a>
 </div>
