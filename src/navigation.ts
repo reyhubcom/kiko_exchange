@@ -112,7 +112,7 @@ export const headerData = {
       href: '#',
     },
   ],
-  actions: [{ text: 'KIKO Shop', href: 'https://linktr.ee/KIKO.Stake', target: '_blank' }],
+  actions: [{ text: 'KIKO Shop', href: 'https://linktr.ee/KIKO.Shop', target: '_blank' }],
 };
 
 export const footerData = {
