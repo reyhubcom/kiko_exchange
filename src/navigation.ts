@@ -103,15 +103,15 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Buy Crypto',
       links: [
-        { text: 'Buy Crypto', href: '/swap' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'Buy Bitcoin', href: '/swap' },
+        { text: 'Buy Ethereum', href: '#' },
+        { text: 'Buy Solana', href: '#' },
+        { text: 'Buy Monad', href: '#' },
+        { text: 'Buy Binance', href: '#' },
+        { text: 'Buy Avalanche', href: '#' },
+        { text: 'Buy Tron', href: '#' },
       ],
     },
     {
