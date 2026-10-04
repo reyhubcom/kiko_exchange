@@ -24,33 +24,18 @@ export const headerData = {
       text: 'Earn',
       links: [
         {
-          text: 'Features (Anchor Link)',
-          href: getPermalink('/#features'),
+          text: 'Yield',
+          href: getPermalink('/#'),
         },
         {
-          text: 'Services',
-          href: getPermalink('/services'),
+          text: 'Staked',
+          href: getPermalink('/#'),
         },
         {
-          text: 'Pricing',
-          href: getPermalink('/pricing'),
+          text: 'Farming',
+          href: getPermalink('/#'),
         },
-        {
-          text: 'About us',
-          href: getPermalink('/about'),
-        },
-        {
-          text: 'Contact',
-          href: getPermalink('/contact'),
-        },
-        {
-          text: 'Terms',
-          href: getPermalink('/terms'),
-        },
-        {
-          text: 'Privacy policy',
-          href: getPermalink('/privacy'),
-        },
+        
       ],
     },
     {
