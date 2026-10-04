@@ -21,7 +21,7 @@ export const headerData = {
       ],
     },
     {
-      text: 'Pages',
+      text: 'Earn',
       links: [
         {
           text: 'Features (Anchor Link)',
