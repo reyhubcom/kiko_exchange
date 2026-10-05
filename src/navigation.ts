@@ -122,7 +122,7 @@ export const footerData = {
         { text: 'Exchange Solana [ SOL ] ', href: '#' },
         { text: 'Exchange Binance [ BNB ]', href: '#' },
         { text: 'Exchange Monad [ MON ]', href: '#' },
-        { text: 'Exchange Avalanche [ AVAX ]', href: '#' },
+        { text: 'Exchange GRAM[ GRAM ]', href: '#' },
         { text: 'Exchange Tron [ TRX ]', href: '#' },
       ],
     },
