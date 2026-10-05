@@ -105,13 +105,13 @@ export const footerData = {
     {
       title: 'Buy Crypto',
       links: [
-        { text: 'Buy Bitcoin', href: '/swap' },
-        { text: 'Buy Ethereum', href: '#' },
-        { text: 'Buy Solana', href: '#' },
-        { text: 'Buy Monad', href: '#' },
-        { text: 'Buy Binance', href: '#' },
-        { text: 'Buy Avalanche', href: '#' },
-        { text: 'Buy Tron', href: '#' },
+        { text: 'Buy Bitcoin [ BTC ]', href: '/swap' },
+        { text: 'Buy Ethereum [ ETH ]', href: '#' },
+        { text: 'Buy Solana [ SOL ]', href: '#' },
+        { text: 'Buy Monad [ MON ]', href: '#' },
+        { text: 'Buy Binance [ BNB ]', href: '#' },
+        { text: 'Buy Avalanche [ AVAX ]', href: '#' },
+        { text: 'Buy Tron [ TRX ]', href: '#' },
       ],
     },
     {
