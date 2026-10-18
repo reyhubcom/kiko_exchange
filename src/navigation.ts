@@ -39,7 +39,7 @@ export const headerData = {
       ],
     },
     {
-      text: 'Landing',
+      text: 'Liquidity',
       links: [
         {
           text: 'Lead Generation',
