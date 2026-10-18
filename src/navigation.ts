@@ -42,29 +42,22 @@ export const headerData = {
       text: 'Liquidity',
       links: [
         {
-          text: 'Lead Generation',
+          text: '1inch',
           href: getPermalink('/landing/lead-generation'),
         },
         {
-          text: 'Long-form Sales',
+          text: 'Li.Fi',
           href: getPermalink('/landing/sales'),
         },
         {
-          text: 'Click-Through',
+          text: 'Uniswap',
           href: getPermalink('/landing/click-through'),
         },
         {
-          text: 'Product Details (or Services)',
+          text: 'ChangeNow',
           href: getPermalink('/landing/product'),
         },
-        {
-          text: 'Coming Soon or Pre-Launch',
-          href: getPermalink('/landing/pre-launch'),
-        },
-        {
-          text: 'Subscription',
-          href: getPermalink('/landing/subscription'),
-        },
+        
       ],
     },
     {
