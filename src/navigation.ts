@@ -14,8 +14,8 @@ export const headerData = {
           href: getPermalink('/#'),
         },
         {
-          text: 'Buy Crypto',
-          href: getPermalink('/swap'),
+          text: 'Stocks',
+          href: getPermalink('/glider'),
         },
         
       ],
