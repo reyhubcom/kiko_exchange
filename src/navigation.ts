@@ -61,10 +61,10 @@ export const headerData = {
       ],
     },
     {
-      text: 'Blog',
+      text: 'Stocks',
       links: [
         {
-          text: 'Blog List',
+          text: 'Glider',
           href: getBlogPermalink(),
         },
         {
