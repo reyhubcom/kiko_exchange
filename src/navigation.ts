@@ -61,14 +61,14 @@ export const headerData = {
       ],
     },
     {
-      text: 'Stocks',
+      text: 'Trading',
       links: [
         {
           text: 'Glider',
           href: getBlogPermalink(),
         },
         {
-          text: 'Article',
+          text: 'Genius',
           href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
         },
         {
