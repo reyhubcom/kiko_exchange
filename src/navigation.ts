@@ -72,7 +72,7 @@ export const headerData = {
           href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
         },
         {
-          text: 'Article (with MDX)',
+          text: 'FOBO',
           href: getPermalink('markdown-elements-demo-post', 'post'),
         },
         {
