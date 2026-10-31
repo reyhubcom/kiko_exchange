@@ -72,7 +72,7 @@ export const headerData = {
           href: 'https://tradegenius.com/ref/GEPWQGR5RZ', target: ' _blank',
     },
         {
-            text: 'FOBO', href: 'https://linktr.ee/KIKOStake', target: '_blank',
+            text: 'FOBO', href: 'https://fobo.fun/r/by4k-s9fs', target: '_blank',
         },
         {
          text: 'PUMP',
