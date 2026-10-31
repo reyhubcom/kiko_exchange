@@ -72,8 +72,7 @@ export const headerData = {
           href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
         },
         {
-          text: 'FOBO',
-          href: getPermalink('markdown-elements-demo-post', 'post'),
+           actions: [{ text: 'FOBO', href: 'https://linktr.ee/KIKOStake', target: '_blank' }],
         },
         {
       text: 'PUMP',
