@@ -82,8 +82,8 @@ export const headerData = {
       ],
     },
     {
-      text: 'Widgets',
-      href: '#',
+      text: 'Tools',
+      href: 'https://jumpbit.io',
     },
   ],
   actions: [{ text: 'KIKO Shop', href: 'https://linktr.ee/KIKOStake', target: '_blank' }],
