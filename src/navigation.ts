@@ -77,7 +77,7 @@ export const headerData = {
         },
         {
       text: 'PUMP',
-      href: '#',
+      href: 'https://pump.fun/u/reyhubcom', target:' _blank',
     },
         {
           text: 'Tag Page',
