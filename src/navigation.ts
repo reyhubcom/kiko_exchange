@@ -68,9 +68,9 @@ export const headerData = {
           href: 'https://glider.fi/r/ibxec0iv', target: ' _blank',
     },
         {
-          text: 'Genius',
-          href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
-        },
+         text: 'Genius',
+          href: 'https://tradegenius.com/ref/GEPWQGR5RZ', target: ' _blank',
+    },
         {
             text: 'FOBO', href: 'https://linktr.ee/KIKOStake', target: '_blank',
         },
