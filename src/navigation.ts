@@ -63,10 +63,10 @@ export const headerData = {
     {
       text: 'Trading',
       links: [
-        {
-          text: 'Glider',
-          href: getBlogPermalink(),
-        },
+         {
+         text: 'Glider',
+          href: 'https://glider.fi/r/ibxec0iv', target: ' _blank',
+    },
         {
           text: 'Genius',
           href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
@@ -75,14 +75,10 @@ export const headerData = {
             text: 'FOBO', href: 'https://linktr.ee/KIKOStake', target: '_blank',
         },
         {
-          [{ text: 'PUMP',
-          href: 'https://pump.fun/u/reyhubcom', target: ' _blank'
-        }],
+         text: 'PUMP',
+          href: 'https://pump.fun/u/reyhubcom', target: ' _blank',
     },
-        {
-          text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
-        },
+       
       ],
     },
     {
