@@ -76,7 +76,7 @@ export const headerData = {
           href: getPermalink('markdown-elements-demo-post', 'post'),
         },
         {
-          text: 'Category Page',
+          text: 'PUMP',
           href: getPermalink('tutorials', 'category'),
         },
         {
