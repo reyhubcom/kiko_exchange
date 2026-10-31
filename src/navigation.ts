@@ -75,8 +75,9 @@ export const headerData = {
             text: 'FOBO', href: 'https://linktr.ee/KIKOStake', target: '_blank',
         },
         {
-      text: 'PUMP',
-      href: 'https://pump.fun/u/reyhubcom', target:' _blank',
+          [{ text: 'PUMP',
+          href: 'https://pump.fun/u/reyhubcom', target: ' _blank'
+        }],
     },
         {
           text: 'Tag Page',
