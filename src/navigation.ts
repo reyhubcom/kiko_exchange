@@ -35,6 +35,10 @@ export const headerData = {
           text: 'Farming',
           href: getPermalink('/#'),
         },
+        {
+          text: 'Portal',
+          href: getPermalink('/#'),
+        },
         
       ],
     },
