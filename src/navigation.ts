@@ -17,6 +17,10 @@ export const headerData = {
           text: 'Stocks',
           href: getPermalink('/glider'),
         },
+        {
+          text: 'Bridge',
+          href: getPermalink('/usdc'),
+        },
         
       ],
     },
