@@ -37,7 +37,7 @@ export const headerData = {
         },
         {
           text: 'Portal',
-          href: getPermalink('/#'),
+          href: getPermalink('/landing/portal'),
         },
         
       ],
